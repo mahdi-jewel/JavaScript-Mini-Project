@@ -1,2 +1,2 @@
 # JavaScript-Mini-Project
-Live(Dynamic) Analog Clock using HTML CSS and Javascri
+Live(Dynamic) Analog Clock using HTML CSS and Javascrip
