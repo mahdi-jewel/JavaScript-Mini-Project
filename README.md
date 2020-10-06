@@ -1,2 +1,2 @@
 # JavaScript-Mini-Project
-Dynamic Analog Clock using html css and javascript.jrt
+Dynamic Analog Clock using html css and javascript.jrtn
